@@ -9,6 +9,7 @@ banner = "banners/placeholder.png"
 	pre = "<i class='fa fa-question'></i>"
 +++
 
-I'm a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
+I'm a linked post in the menu. You can add other posts by adding the following
+line to the frontmatter:
 
     menu = "main"
