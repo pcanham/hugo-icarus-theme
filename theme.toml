@@ -5,7 +5,7 @@ description = "A responsive and customizable hugo theme for bloggers."
 homepage = "//github.com/pcanham/hugo-icarus-theme"
 tags = ["syntax highlighting", "maxthjax", "rss", "gallery", "widgets", "google analytics"]
 features = ["syntax highlighting", "maxthjax", "rss", "gallery", "widgets", "google analytics"]
-min_version = 0.72.0
+min_version = "0.72"
 
 [author]
   name = "Digitalcraftsman"
@@ -20,5 +20,4 @@ authors = [
 [original]
   name = "Ruipeng Zhang"
   homepage = "http://blog.zhangruipeng.me"
-  repo = "https://github.com/ppoffice/hexo-theme-icarus"
   repo = "https://github.com/ppoffice/hexo-theme-icarus"
